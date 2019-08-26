@@ -23,7 +23,7 @@ chmod +x *
 
 wait for installation to finish
 
-## ⭕️ Fire a tool
+## ⭕️ Fire up a tool
 
 python proxy-feeder.py
 
